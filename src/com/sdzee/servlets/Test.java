@@ -18,9 +18,9 @@ import com.sdzee.beans.Coyote;
 import com.sun.xml.internal.bind.v2.schemagen.xmlschema.List;
 
 /**
- * Servlet implementation class Test3
+ * Servlet implementation class Test
  */
-@WebServlet("/Test3")
+@WebServlet("/Test")
 public class Test extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
